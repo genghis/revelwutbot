@@ -1,0 +1,8 @@
+wutbot.json
+bin/
+lib/
+include/
+man/
+pytest.py
+pyenv.cfg
+zappa_settings.json
