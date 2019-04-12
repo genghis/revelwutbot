@@ -1,0 +1,4 @@
+gspread
+flask
+requests
+oauth2client
